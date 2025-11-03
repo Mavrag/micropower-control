@@ -3,7 +3,7 @@
 > Windows desktop application for centralized PC power management over LAN
 
 [![Platform](https://img.shields.io/badge/platform-Windows-blue.svg)](https://www.microsoft.com/windows)
-[![Download](https://img.shields.io/badge/Download-Latest%20Release-green.svg)](https://github.com/YOUR_USERNAME/miropower/releases)
+[![Download](https://img.shields.io/badge/Download-Latest%20Release-green.svg)](https://github.com/mavrag/miropower-control/releases)
 
 Admin dashboard for monitoring and controlling all PCs running MiroPower Client on your local network.
 
@@ -20,7 +20,7 @@ Admin dashboard for monitoring and controlling all PCs running MiroPower Client 
 
 ## 📥 Installation
 
-1. Go to [Releases](https://github.com/YOUR_USERNAME/miropower/releases)
+1. Go to [Releases](https://github.com/mavrag/miropower-control/releases)
 2. Download **MiroPower Control Setup.exe**
 3. Run the installer
 4. Launch from Start Menu or Desktop shortcut
